@@ -1,0 +1,2 @@
+2022-06-13T14:22:31+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\OpenServer\domains\exchange-education\wp-content\plugins\wp-mail-smtp\vendor_prefixed\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 412
+
